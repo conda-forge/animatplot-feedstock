@@ -1,6 +1,6 @@
 {% set name = "animatplot" %}
 {% set version = "0.4.0" %}
-{% set sha256 = "089c11ea1543d1ca8ca342c4059bad6ce82417e4b6178ed8ae51fdbf729f9194" %}
+{% set sha256 = "b5aaca34872a278829029ef749e06c4e6a3165dc35bf925dba74d25268676e8c" %}
 
 package:
   name: {{ name|lower }}
