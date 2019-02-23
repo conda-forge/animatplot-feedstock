@@ -33,7 +33,6 @@ about:
   home: https://github.com/t-makaro/animatplot/
   license: MIT
   license_family: MIT
-  license_file: LICENSE.txt
   summary: 'Animating plots with matplotlib made easy'
 
   description: |
