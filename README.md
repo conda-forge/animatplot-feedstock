@@ -5,9 +5,11 @@ Home: https://github.com/t-makaro/animatplot/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/animatplot-feedstock/blob/master/LICENSE.txt)
 
 Summary: Animating plots with matplotlib made easy
+
+Documentation: https://animatplot.readthedocs.io/en/stable/
 
 animatplot is build to make it as easy to produce an animated plot
 as easy as it is to make a static plot.
